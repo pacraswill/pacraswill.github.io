@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>resolutionData</key>
+	<dict>
+		<key>sheetClusters</key>
+		<dict>
+			<key>2019-03-10-firstpost.markdown</key>
+			<dict>
+				<key>lastModification</key>
+				<real>573916697.83067596</real>
+				<key>version</key>
+				<dict>
+					<key>f81254026aafb2296f2722368c8350ab2c42e95ebc8cfd8a9c3a22c8b348c03f</key>
+					<integer>2</integer>
+				</dict>
+			</dict>
+			<key>2019-03-10-爬虫1.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>573916772.50079894</real>
+				<key>version</key>
+				<dict>
+					<key>f81254026aafb2296f2722368c8350ab2c42e95ebc8cfd8a9c3a22c8b348c03f</key>
+					<integer>5</integer>
+				</dict>
+			</dict>
+		</dict>
+	</dict>
+	<key>sheetClusters</key>
+	<array>
+		<array>
+			<string>2019-03-10-爬虫1.md</string>
+		</array>
+		<array>
+			<string>2019-03-10-firstpost.markdown</string>
+		</array>
+	</array>
+	<key>storeFormatVersion</key>
+	<integer>1</integer>
+	<key>versioning</key>
+	<dict>
+		<key>sheetClusters</key>
+		<dict>
+			<key>f81254026aafb2296f2722368c8350ab2c42e95ebc8cfd8a9c3a22c8b348c03f</key>
+			<integer>7</integer>
+		</dict>
+	</dict>
+</dict>
+</plist>
