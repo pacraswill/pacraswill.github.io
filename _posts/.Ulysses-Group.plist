@@ -36,6 +36,26 @@
 					<integer>10</integer>
 				</dict>
 			</dict>
+			<key>2019-03-11-LeetCode127周赛总结.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>574007953.11150396</real>
+				<key>version</key>
+				<dict>
+					<key>f81254026aafb2296f2722368c8350ab2c42e95ebc8cfd8a9c3a22c8b348c03f</key>
+					<integer>12</integer>
+				</dict>
+			</dict>
+			<key>2019-03-11-野人过河问题.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>574010702.02582395</real>
+				<key>version</key>
+				<dict>
+					<key>f81254026aafb2296f2722368c8350ab2c42e95ebc8cfd8a9c3a22c8b348c03f</key>
+					<integer>21</integer>
+				</dict>
+			</dict>
 		</dict>
 	</dict>
 	<key>sheetClusters</key>
@@ -49,6 +69,12 @@
 		<array>
 			<string>2019-03-10-爬虫2.md</string>
 		</array>
+		<array>
+			<string>2019-03-11-LeetCode127周赛总结.md</string>
+		</array>
+		<array>
+			<string>2019-03-11-野人过河问题.md</string>
+		</array>
 	</array>
 	<key>storeFormatVersion</key>
 	<integer>1</integer>
@@ -57,7 +83,7 @@
 		<key>sheetClusters</key>
 		<dict>
 			<key>f81254026aafb2296f2722368c8350ab2c42e95ebc8cfd8a9c3a22c8b348c03f</key>
-			<integer>10</integer>
+			<integer>22</integer>
 		</dict>
 	</dict>
 </dict>
