@@ -68,7 +68,7 @@ kramdown:
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "学生。"
+sidebar-about-description: "刚被社会毒打的职场小白"
 sidebar-avatar: /img/me.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
@@ -80,7 +80,12 @@ featured-condition-size: 1              # A tag will be featured if the size of 
 
 
 # Friends
-#friends: []
+friends: [
+  {
+      title: "LC-一个帅字概括了一生的大佬",
+      href: "https://lightingcontour.com/"
+  }
+]
 
 # Gems
 gems: [jekyll-paginate]
